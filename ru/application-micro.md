@@ -14,8 +14,7 @@
               <a href="#routing-setup-router">Объект Router</a>
             </li>
           </ul>
-        </li>
-        
+        </li>        
         <li>
           <a href="#rewrite-rules">Правила перезаписи</a>
         </li>
